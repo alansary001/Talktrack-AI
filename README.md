@@ -4,11 +4,6 @@ this tool can transcribe audio, search for keywords or phrases, and provide cont
 making it ideal for applications in law enforcement, media production, education, and more.
 
 **Features**
-Unordered list
-1
-3
-
-
 
  **• Speech-to-Text:** Converts speech from video clips into accurate transcriptions.
  
