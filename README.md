@@ -21,7 +21,8 @@ making it ideal for applications in law enforcement, media production, education
  
  • User-Friendly Interface: Easy-to-use interface for quick video upload, search query input, and result navigation.
 
-** To run**
+**To Run the App**
+
  run the python code, then run the code below on your terminal
 
 **streamlit run app.py**
