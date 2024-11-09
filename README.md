@@ -22,6 +22,6 @@ making it ideal for applications in law enforcement, media production, education
 
  run the python code, then run the code below on your terminal
 
-**streamlit run app.py**
+*streamlit run app.py*
 
 this will launch the interface on your browser.
